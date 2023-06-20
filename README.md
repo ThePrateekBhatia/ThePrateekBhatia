@@ -1,4 +1,5 @@
-<img align="center" width="300rem" src="https://github.com/AmeyaGurjar/ThePrateekBhatia/assets/65576885/24fa0777-e74a-4a1a-9cff-b0f1d6abd7b2">
+<img align="center" width="300rem" src="![Uploading ezgif-2-572e5ca5a7.gif…]()
+">
 
 ### Freaky
 **`Freaky Builder`**
