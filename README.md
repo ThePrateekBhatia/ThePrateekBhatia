@@ -41,6 +41,8 @@ Hello, I'm Prateek Bhatia Also Known As Freaky, hailing from Hisar, India, is an
 
 ### Stats
 ![Freaky's GitHub stats](https://github-readme-stats.vercel.app/api?username=theprateekbhatia&show_icons=true&theme=dark)
+<br>
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31cufsatx6dabubvrtu3p2br22sy&width=500)
 
 ### Support Me
 You Can Sponsor Me By Donating Some Amount.
