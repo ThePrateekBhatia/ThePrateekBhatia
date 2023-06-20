@@ -7,16 +7,16 @@ Hello, I'm Prateek Bhatia Also Known As Freaky, hailing from Hisar, India, is an
 
 <a align="left">
     <a href="https://facebook.com/amey.gurjar.94">
-        <img src="https://custom-icon-badges.demolab.com/badge/Ameya Gurjar-0000ff?style=for-the-badge&logo=facebook&logoColor=white">
+        <img src="https://custom-icon-badges.demolab.com/badge/Prateek Bhatia-0000ff?style=for-the-badge&logo=facebook&logoColor=white">
     </a>
     <a href="https://instagram.com/meowameya">
-        <img src="https://custom-icon-badges.demolab.com/badge/Ameya Gurjar-ff00ff?style=for-the-badge&logo=instagram&logoColor=white">
+        <img src="https://custom-icon-badges.demolab.com/badge/Prateek Bhatia-ff00ff?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
     <a href="https://t.me/OpenSourceBlackCat">
-        <img src="https://custom-icon-badges.demolab.com/badge/OpenSourceBlackCat-229ed9?style=for-the-badge&logo=telegram&logoColor=white">
+        <img src="https://custom-icon-badges.demolab.com/badge/MrFreaks-229ed9?style=for-the-badge&logo=telegram&logoColor=white">
     </a>
     <a href="https://discord.com/users/730518724984963183">
-        <img src="https://custom-icon-badges.demolab.com/badge/OpenSourceBlackCat-7289da?style=for-the-badge&logo=discord&logoColor=white">
+        <img src="https://custom-icon-badges.demolab.com/badge/MrFreaks-7289da?style=for-the-badge&logo=discord&logoColor=white">
     </a>
   </a>
 </a>
@@ -47,16 +47,16 @@ You Can Sponsor Me By Donating Some Amount.
 <br>
 <a align="left">
     <a href="https://github.com/sponsors/AmeyaGurjar">
-        <img src="https://custom-icon-badges.demolab.com/badge/AmeyaGurjar-36454F?style=for-the-badge&logo=sponsor&logoColor=pink">
+        <img src="https://custom-icon-badges.demolab.com/badge/PrateekBhatia-36454F?style=for-the-badge&logo=sponsor&logoColor=pink">
     </a>
     <a href="https://paypal.me/AmeyMeow">
-        <img src="https://custom-icon-badges.demolab.com/badge/Ameya Gurjar-3b7bbf?style=for-the-badge&logo=paypal&logoColor=white">
+        <img src="https://custom-icon-badges.demolab.com/badge/Prateek Bhatia-3b7bbf?style=for-the-badge&logo=paypal&logoColor=white">
     </a><br>
     <a href="https://www.buymeacoffee.com/amey992004">
-        <img src="https://custom-icon-badges.demolab.com/badge/BlackCat-ffff00?style=for-the-badge&logo=coffee-meow">
+        <img src="https://custom-icon-badges.demolab.com/badge/Freaky-ffff00?style=for-the-badge&logo=coffee-meow">
     </a>
     <a href="https://ko-fi.com/ameyagurjar">
-        <img src="https://custom-icon-badges.demolab.com/badge/BlackCat-229ed9?style=for-the-badge&logo=kofi-meow">
+        <img src="https://custom-icon-badges.demolab.com/badge/Freaky-229ed9?style=for-the-badge&logo=kofi-meow">
     </a>
   </a>
 </a>
