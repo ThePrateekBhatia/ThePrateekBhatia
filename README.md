@@ -1,9 +1,9 @@
-<img align="center" width="300rem" src="https://github.com/AmeyaGurjar/AmeyaGurjar/assets/65576885/c66847b8-82de-41c7-b8fb-b5861a0e7176">
+<img align="center" width="300rem" src="https://github.com/AmeyaGurjar/ThePrateekBhatia/assets/65576885/24fa0777-e74a-4a1a-9cff-b0f1d6abd7b2">
 
-### BlackCat
-**`A Cat That Codes.`**
+### Freaky
+**`Freaky Builder`**
 
-Hello, I'm Ameya Gurjar, also known as BlackCat, a coding enthusiast from Mumbai, India. I'm an ardent cat lover and a coding enthusiast. On this Github profile, you'll find a fusion of my two passions - cats and code. Join me on this exciting journey as we explore the world of cats who code, creating innovative projects and leaving our unique paw prints on the digital realm. Let's embrace the meow-tastic synergy of cats and coding!
+Hello, I'm Prateek Bhatia Also Known As Freaky, hailing from Hisar, India, is an enthusiastic individual deeply passionate about Android custom ROM development. With an unwavering love for custom ROMs, Prateek actively explores and engages in the world of Android customization. Continually striving to enhance the user experience, he delves into the intricacies of developing custom ROMs. Prateek's dedication and expertise in this field make him a valuable asset to the Android customization community.
 
 <a align="left">
     <a href="https://facebook.com/amey.gurjar.94">
@@ -42,12 +42,12 @@ Hello, I'm Ameya Gurjar, also known as BlackCat, a coding enthusiast from Mumbai
 ‎ ‎ ‎ ‎ 
 
 ### Top Projects
-[![Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=ameyagurjar&repo=AmeyBot&theme=dark)](https://github.com/AmeyaGurjar/AmeyBot)
+[![Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=theprateekbhatia&repo=Freaky-Builds&theme=dark)](https://github.com/ThePrateekBhatia/Freaky-Builds)
 <br>
-[![Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=ameyagurjar&repo=device_xiaomi_veux&theme=dark)](https://github.com/AmeyaGurjar/device_xiaomi_veux)
+[![Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=theprateekbhatia&repo=device_xiaomi_veux&theme=dark)](https://github.com/ThePrateekBhatia/device_xiaomi_veux)
 
 ### Stats
-![Ameya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ameyagurjar&show_icons=true&theme=dark)
+![Freaky's GitHub stats](https://github-readme-stats.vercel.app/api?username=theprateekbhatia&show_icons=true&theme=dark)
 
 ### Support Me
 You Can Sponsor Me By Donating Some Amount.
