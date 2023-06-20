@@ -12,7 +12,7 @@ Hello, I'm Prateek Bhatia Also Known As Freaky, hailing from Hisar, India, is an
     <a href="https://instagram.com/the_prateekbhatia">
         <img src="https://custom-icon-badges.demolab.com/badge/Prateek Bhatia-ff00ff?style=for-the-badge&logo=instagram&logoColor=white">
     </a><br>
-    <a href="https://open.spotify.com/user/314rtkwevaue63uatqz3mso2rawe">
+    <a href="https://open.spotify.com/user/31cufsatx6dabubvrtu3p2br22sy">
         <img src="https://custom-icon-badges.demolab.com/badge/Freaky-191414?style=for-the-badge&logo=spotify&logoColor=1DB954">
     </a>
     <a href="https://t.me/MrFreakSins">
