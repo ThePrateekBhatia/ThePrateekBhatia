@@ -11,6 +11,9 @@ Hello, I'm Prateek Bhatia Also Known As Freaky, hailing from Hisar, India, is an
     </a>
     <a href="https://instagram.com/the_prateekbhatia">
         <img src="https://custom-icon-badges.demolab.com/badge/Prateek Bhatia-ff00ff?style=for-the-badge&logo=instagram&logoColor=white">
+    </a><br>
+    <a href="https://open.spotify.com/user/314rtkwevaue63uatqz3mso2rawe">
+        <img src="https://custom-icon-badges.demolab.com/badge/Freaky-191414?style=for-the-badge&logo=spotify&logoColor=green">
     </a>
     <a href="https://t.me/MrFreakSins">
         <img src="https://custom-icon-badges.demolab.com/badge/Freaky-229ed9?style=for-the-badge&logo=telegram&logoColor=white">
@@ -43,13 +46,13 @@ Hello, I'm Prateek Bhatia Also Known As Freaky, hailing from Hisar, India, is an
 You Can Sponsor Me By Donating Some Amount.
 <br>
 <a align="left">
-    <a href="https://paypal.me/AmeyMeow">
+    <a href="https://paypal.me/bhatia111">
         <img src="https://custom-icon-badges.demolab.com/badge/Prateek Bhatia-3b7bbf?style=for-the-badge&logo=paypal&logoColor=white">
     </a><br>
-    <a href="https://www.buymeacoffee.com/amey992004">
+    <a href="https://www.buymeacoffee.com/prateekbhatia">
         <img src="https://custom-icon-badges.demolab.com/badge/Freaky-ffff00?style=for-the-badge&logo=coffee-meow">
     </a>
-    <a href="https://ko-fi.com/ameyagurjar">
+    <a href="https://ko-fi.com/prateekbhatia">
         <img src="https://custom-icon-badges.demolab.com/badge/Freaky-229ed9?style=for-the-badge&logo=kofi-meow">
     </a>
   </a>
