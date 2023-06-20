@@ -6,7 +6,7 @@
 Hello, I'm Prateek Bhatia Also Known As Freaky, hailing from Hisar, India, is an enthusiastic individual deeply passionate about Android custom ROM development. With an unwavering love for custom ROMs, Prateek actively explores and engages in the world of Android customization. Continually striving to enhance the user experience, he delves into the intricacies of developing custom ROMs. Prateek's dedication and expertise in this field make him a valuable asset to the Android customization community.
 
 <a align="left">
-    <a href="https://facebook.com/amey.gurjar.94">
+    <a href="https://www.facebook.com/prateek.bhatia.1238">
         <img src="https://custom-icon-badges.demolab.com/badge/Prateek Bhatia-0000ff?style=for-the-badge&logo=facebook&logoColor=white">
     </a>
     <a href="https://instagram.com/the_prateekbhatia">
