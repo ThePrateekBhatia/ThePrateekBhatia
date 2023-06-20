@@ -9,7 +9,7 @@ Hello, I'm Prateek Bhatia Also Known As Freaky, hailing from Hisar, India, is an
     <a href="https://facebook.com/amey.gurjar.94">
         <img src="https://custom-icon-badges.demolab.com/badge/Prateek Bhatia-0000ff?style=for-the-badge&logo=facebook&logoColor=white">
     </a>
-    <a href="https://instagram.com/meowameya">
+    <a href="https://instagram.com/the_prateekbhatia">
         <img src="https://custom-icon-badges.demolab.com/badge/Prateek Bhatia-ff00ff?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
     <a href="https://t.me/OpenSourceBlackCat">
