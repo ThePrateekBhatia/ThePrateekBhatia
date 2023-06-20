@@ -1,4 +1,4 @@
-<img align="center" width="300rem" src="![Uploading ezgif-2-572e5ca5a7.gif…]()
+<img align="center" width="300rem" src="![ezgif-2-572e5ca5a7](https://github.com/ThePrateekBhatia/ThePrateekBhatia/assets/131198906/82b8e41b-fbe3-4408-b2f2-0a74c7490eeb)
 ">
 
 ### Freaky
