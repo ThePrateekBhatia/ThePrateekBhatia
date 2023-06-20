@@ -54,7 +54,7 @@ You Can Sponsor Me By Donating Some Amount.
     <a href="https://www.buymeacoffee.com/prateekbhatia">
         <img src="https://custom-icon-badges.demolab.com/badge/Freaky-ffff00?style=for-the-badge&logo=coffee-meow">
     </a>
-    <a href="https://ko-fi.com/prateekbhatia">
+    <a href="https://ko-fi.com/freaky">
         <img src="https://custom-icon-badges.demolab.com/badge/Freaky-229ed9?style=for-the-badge&logo=kofi-meow">
     </a>
   </a>
