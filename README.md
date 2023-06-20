@@ -3,7 +3,6 @@
 ### Freaky
 **`Freaky Builder`**
 
-
 Hello, I'm Prateek Bhatia Also Known As Freaky, hailing from Hisar, India, is an enthusiastic individual deeply passionate about Android custom ROM development. With an unwavering love for custom ROMs, Prateek actively explores and engages in the world of Android customization. Continually striving to enhance the user experience, he delves into the intricacies of developing custom ROMs. Prateek's dedication and expertise in this field make him a valuable asset to the Android customization community.
 
 <a align="left">
