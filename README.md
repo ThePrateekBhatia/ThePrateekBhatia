@@ -43,9 +43,6 @@ Hello, I'm Prateek Bhatia Also Known As Freaky, hailing from Hisar, India, is an
 You Can Sponsor Me By Donating Some Amount.
 <br>
 <a align="left">
-    <a href="https://github.com/sponsors/AmeyaGurjar">
-        <img src="https://custom-icon-badges.demolab.com/badge/PrateekBhatia-36454F?style=for-the-badge&logo=sponsor&logoColor=pink">
-    </a>
     <a href="https://paypal.me/AmeyMeow">
         <img src="https://custom-icon-badges.demolab.com/badge/Prateek Bhatia-3b7bbf?style=for-the-badge&logo=paypal&logoColor=white">
     </a><br>
