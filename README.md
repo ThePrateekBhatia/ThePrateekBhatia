@@ -1,5 +1,10 @@
 <img align="center" width="300rem" src="https://github.com/ThePrateekBhatia/ThePrateekBhatia/assets/131198906/82b8e41b-fbe3-4408-b2f2-0a74c7490eeb">
 
+<!-- Hello World sliding text -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World!;Welcome+to+my+Profile!;I'm+Prateek+Bhatia!;Passionate+about+Android+custom+ROMs!&center=true&width=380&height=55">
+</p>
+
 ### Freaky
 **`Freaky Builder`**
 
