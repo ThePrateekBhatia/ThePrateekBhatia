@@ -78,3 +78,49 @@ You Can Sponsor Me By Donating Some Amount.
 </a>
 
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
+
+
+<!-- Popular coding wallpaper with falling text -->
+<style>
+  body {
+    background-image: url('[https://example.com/coding-wallpaper.jpg](https://2.bp.blogspot.com/_PtM58LN9UkQ/SxL_dl07cKI/AAAAAAAACa8/LhCKUrSbgYA/s1600/Matrix_Movie_Wallpaper.jpg)');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    overflow: hidden;
+  }
+
+  .falling-text-container {
+    position: relative;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, sans-serif;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+  }
+
+  .falling-text {
+    position: absolute;
+    animation: fall 5s linear infinite;
+  }
+
+  @keyframes fall {
+    0% {
+      transform: translateY(-100vh);
+    }
+    100% {
+      transform: translateY(100vh);
+    }
+  }
+</style>
+
+<div class="falling-text-container">
+  <h1 class="falling-text">Welcome to my Profile!</h1>
+  <h2 class="falling-text">I'm Prateek Bhatia</h2>
+  <h3 class="falling-text">A Passionate Developer from INDIA!</h3>
+  <h4 class="falling-text">Code, Innovate, Create</h4>
+  <h5 class="falling-text">1234567890</h5>
+</div>
