@@ -78,3 +78,35 @@ You Can Sponsor Me By Donating Some Amount.
 </a>
 
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
+
+
+#pacman-container {
+  width: 200px;
+  height: 200px;
+  position: relative;
+  overflow: hidden;
+}
+
+.pacman {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  border-top: 60px solid yellow;
+  border-right: 60px solid transparent;
+  border-bottom: 60px solid yellow;
+  border-left: 60px solid yellow;
+  position: absolute;
+  animation: chomp 0.6s infinite;
+}
+
+@keyframes chomp {
+  0% {
+    transform: rotate(0deg);
+  }
+  50% {
+    transform: rotate(-45deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}
