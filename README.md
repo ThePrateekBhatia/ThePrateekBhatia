@@ -78,3 +78,50 @@ You Can Sponsor Me By Donating Some Amount.
 </a>
 
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
+
+
+### Welcome to My Profile! 🎮
+
+Here's a Pacman game visualization for you:
+
+```html
+<canvas id="pacman-canvas" width="400" height="400"></canvas>
+
+const canvas = document.getElementById('pacman-canvas');
+const ctx = canvas.getContext('2d');
+
+// Pacman position and properties
+let pacmanX = 200;
+let pacmanY = 200;
+let pacmanRadius = 20;
+let pacmanMouthOpen = true;
+
+function drawPacman() {
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+  // Draw Pacman
+  ctx.beginPath();
+  ctx.arc(pacmanX, pacmanY, pacmanRadius, 0.2 * Math.PI, 1.8 * Math.PI);
+  ctx.lineTo(pacmanX, pacmanY);
+  ctx.closePath();
+  ctx.fillStyle = 'yellow';
+  ctx.fill();
+
+  // Draw Pacman's mouth
+  if (pacmanMouthOpen) {
+    ctx.beginPath();
+    ctx.arc(pacmanX, pacmanY, pacmanRadius, 0.6 * Math.PI, 1.4 * Math.PI);
+    ctx.lineTo(pacmanX, pacmanY);
+    ctx.closePath();
+    ctx.fillStyle = 'black';
+    ctx.fill();
+  }
+
+  // Animate Pacman's mouth
+  pacmanMouthOpen = !pacmanMouthOpen;
+
+  requestAnimationFrame(drawPacman);
+}
+
+// Start animation
+drawPacman();
