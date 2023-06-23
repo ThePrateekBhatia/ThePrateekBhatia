@@ -3,7 +3,19 @@
 ### Freaky
 **`Freaky Builder`**
 
-Hello, I'm Prateek Bhatia Also Known As Freaky, hailing from Hisar, India, is an enthusiastic individual deeply passionate about Android custom ROM development. With an unwavering love for custom ROMs, Prateek actively explores and engages in the world of Android customization. Continually striving to enhance the user experience, he delves into the intricacies of developing custom ROMs. Prateek's dedication and expertise in this field make him a valuable asset to the Android customization community.
+👋 Hello, fellow developers and tech enthusiasts! Welcome to my GitHub profile!
+
+I'm Prateek Bhatia, a passionate individual driven by the love for building Android custom ROMs. I believe in the power of customization and creating unique experiences for users. You'll often find me diving deep into the world of Android development, exploring new possibilities, and pushing the boundaries of what can be achieved on mobile devices.
+
+As an avid user of Veux/Peux, my primary devices, I've taken it upon myself to craft custom ROMs tailored specifically to enhance their performance and unlock their true potential. Through my work, I strive to deliver an exceptional user experience by combining stability, innovation, and cutting-edge features.
+
+With each project, I aim to contribute to the Android community by sharing my knowledge, insights, and code. Collaborating with like-minded individuals and teams fuels my creativity and allows me to continually evolve as a developer.
+
+Feel free to explore my repositories, delve into my code, and don't hesitate to reach out if you have any questions or ideas to discuss. Together, let's shape the future of Android and create amazing experiences for users worldwide!
+
+Happy coding and customization!
+
+Prateek Bhatia 🚀
 
 <a align="left">
     <a href="https://www.facebook.com/prateek.bhatia.1238">
