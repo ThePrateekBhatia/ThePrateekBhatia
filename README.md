@@ -83,7 +83,7 @@ You Can Sponsor Me By Donating Some Amount.
 <!-- Popular coding wallpaper with falling text -->
 <style>
   body {
-    background-image: url('[https://example.com/coding-wallpaper.jpg](https://2.bp.blogspot.com/_PtM58LN9UkQ/SxL_dl07cKI/AAAAAAAACa8/LhCKUrSbgYA/s1600/Matrix_Movie_Wallpaper.jpg)');
+    background-image: url('https://2.bp.blogspot.com/_PtM58LN9UkQ/SxL_dl07cKI/AAAAAAAACa8/LhCKUrSbgYA/s1600/Matrix_Movie_Wallpaper.jpg');
     background-size: cover;
     background-position: center;
     height: 100vh;
