@@ -5,12 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World!;Welcome+to+my+Profile!;I'm+Prateek+Bhatia!;A+Passionate+Developer+from+INDIA!&center=true&width=380&height=55">
 </p>
 
-<!-- Hello World sliding text -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World!;Welcome+to+my+Profile!;I'm+Prateek+Bhatia!;A+Passionate+Developer+from+%F0%9F%8F%B3%EF%B8%8F%EF%B8%8E%EF%B8%8F%E2%80%8D%F0%9F%8C%88!&center=true&width=380&height=55">
-</p>
-
-
 ### Freaky
 **`Freaky Builder`**
 
