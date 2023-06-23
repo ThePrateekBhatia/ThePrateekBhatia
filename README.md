@@ -2,7 +2,7 @@
 
 <!-- Hello World sliding text -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World!;Welcome+to+my+Profile!;I'm+Prateek+Bhatia!;A+Passionate+Developer!&center=true&width=380&height=55">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World!;Welcome+to+my+Profile!;I'm+Prateek+Bhatia!;A+Passionate+Developer+from+INDIA!&center=true&width=380&height=55">
 </p>
 
 ### Freaky
