@@ -7,7 +7,7 @@
 
 I'm Prateek Bhatia, a passionate individual driven by the love for building Android custom ROMs. I believe in the power of customization and creating unique experiences for users. You'll often find me diving deep into the world of Android development, exploring new possibilities, and pushing the boundaries of what can be achieved on mobile devices.
 
-As an avid user of Veux/Peux, my primary devices, I've taken it upon myself to craft custom ROMs tailored specifically to enhance their performance and unlock their true potential. Through my work, I strive to deliver an exceptional user experience by combining stability, innovation, and cutting-edge features.
+As an avid user of Veux/Peux aka Redmi Note 11 Pro+ 5G, my primary device, I've taken it upon myself to craft custom ROMs tailored specifically to enhance their performance and unlock their true potential. Through my work, I strive to deliver an exceptional user experience by combining stability, innovation, and cutting-edge features.
 
 With each project, I aim to contribute to the Android community by sharing my knowledge, insights, and code. Collaborating with like-minded individuals and teams fuels my creativity and allows me to continually evolve as a developer.
 
