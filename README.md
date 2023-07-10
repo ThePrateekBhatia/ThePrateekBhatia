@@ -51,7 +51,7 @@ Prateek Bhatia 🚀
 ### Top Projects
 [![Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=theprateekbhatia&repo=Freaky-Builds&theme=dark)](https://github.com/ThePrateekBhatia/Freaky-Builds)
 <br>
-[![Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=theprateekbhatia&repo=android_device_xiaomi_veux&theme=dark)](https://github.com/ThePrateekBhatia/android_device_xiaomi_veux)
+[![Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=theprateekbhatia&repo=device_xiaomi_veux&theme=dark)](https://github.com/ThePrateekBhatia/device_xiaomi_veux)
 
 ### Stats
 ![Freaky's GitHub stats](https://github-readme-stats.vercel.app/api?username=theprateekbhatia&show_icons=true&theme=dark)
