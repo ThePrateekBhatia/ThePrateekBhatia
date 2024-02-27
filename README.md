@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World!;Welcome+to+my+Profile!;I'm+Prateek+Bhatia!;A+Passionate+Developer+from+INDIA!&center=true&width=380&height=55">
 </p>
 
-<h2 align="center">👨‍💻 Freaky Prateek 👨‍💻</h2>
+<h2 align="center">Freaky Prateek</h2>
 
 <p align="center">🚀 Hello, fellow developers and tech enthusiasts! Welcome to my GitHub profile! 🚀</p>
 
@@ -27,7 +27,7 @@
   <a href="https://open.spotify.com/user/31cufsatx6dabubvrtu3p2br22sy">
     <img src="https://custom-icon-badges.demolab.com/badge/Freaky-191414?style=for-the-badge&logo=spotify&logoColor=1DB954">
   </a>
-  <a href="https://t.me/MrFreakSins">
+  <a href="https://t.me/FreakyPrateek">
     <img src="https://custom-icon-badges.demolab.com/badge/Freaky-229ed9?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </p>
@@ -80,9 +80,6 @@
     <img src="https://custom-icon-badges.demolab.com/badge/Prateek%20Bhatia-3b7bbf?style=for-the-badge&logo=paypal&logoColor=white">
   </a>
   <br>
-  <a href="https://www.buymeacoffee.com/prateekbhatia">
-    <img src="https://custom-icon-badges.demolab.com/badge/Freaky-ffff00?style=for-the-badge&logo=coffee-meow">
-  </a>
   <a href="https://ko-fi.com/freaky">
     <img src="https://custom-icon-badges.demolab.com/badge/Freaky-229ed9?style=for-the-badge&logo=kofi-meow">
   </a>
