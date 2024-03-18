@@ -50,8 +50,8 @@
 <h3 align="center">Top Projects</h3>
 
 <p align="center">
-  <a href="https://github.com/ThePrateekBhatia/Freaky-Builds">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theprateekbhatia&repo=Freaky-Builds&theme=dark">
+  <a href="https://github.com/ApexOS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theprateekbhatia&theme=dark">
   </a>
   <br>
   <a href="https://github.com/ThePrateekBhatia/device_xiaomi_veux">
