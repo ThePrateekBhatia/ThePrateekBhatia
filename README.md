@@ -43,7 +43,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThePrateekBhatia&theme=tokyonight&hide_border=false&show_icons=true"/>
-  <img src="https://komarev.com/ghpvc/?username=ThePrateekBhatia&style=for-the-badge&color=blueviolet"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ThePrateekBhatia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePrateekBhatia&theme=tokyonight&hide_border=false&layout=compact"/>
 </div>
 
