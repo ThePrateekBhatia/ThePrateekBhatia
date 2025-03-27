@@ -43,7 +43,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThePrateekBhatia&theme=tokyonight&hide_border=false&show_icons=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThePrateekBhatia&theme=tokyonight&hide_border=false"/>
+  <img src="https://streak-stats.demolab.com?user=ThePrateekBhatia&theme=tokyonight&hide_border=false"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePrateekBhatia&theme=tokyonight&hide_border=false&layout=compact"/>
 </div>
 
@@ -65,7 +65,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FreakyPrateek) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThePrateekBhatia) [![Ko-Fi](https://img.shields.io/badge/Support_Me_on_Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/freaky)
 
-![Profile Views](https://visitcount.itsvg.in/api?id=ThePrateekBhatia&icon=2&color=0)
+![Profile Views](https://komarev.com/ghpvc/?username=ThePrateekBhatia&style=for-the-badge&color=blueviolet)
 
 ---
 
